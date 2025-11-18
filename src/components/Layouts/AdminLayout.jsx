@@ -11,9 +11,9 @@ const AdminLayout = () => {
             <Sidebar />
 
             {/* MAIN CONTENT (changes on URL change) */}
-            <div className="flex-1 flex flex-col">
+            <div className="flex-1 flex flex-col bg-gray-50">
                 <Navbar />
-                <div className='flex-1 overflow-auto p-6'>
+                <div className='flex-1 overflow-auto m-6 p-6 bg-white border border-gray-200 rounded-2xl'>
                     <Outlet />
                 </div>
                 <Footer />
