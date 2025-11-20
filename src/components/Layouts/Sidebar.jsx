@@ -8,8 +8,10 @@ const Sidebar = () => {
             <nav className="flex flex-col gap-3">
                 <NavLink to="/admin" className="hover:bg-gray-200 p-2 rounded transition-all">Analytics</NavLink>
                 <NavLink to="/admin/customer" className="hover:bg-gray-200 p-2 rounded transition-all">Customer</NavLink>
+                <NavLink to="/admin/inquiry" className="hover:bg-gray-200 p-2 rounded transition-all">Inquiry</NavLink>
+                <NavLink to="/admin/quotation" className="hover:bg-gray-200 p-2 rounded transition-all">Quotaion</NavLink>
+                <NavLink to="/admin/customer-purchase-order" className="hover:bg-gray-200 p-2 rounded transition-all">Customer Purchase Order</NavLink>
                 <NavLink to="/admin/sales-order" className="hover:bg-gray-200 p-2 rounded transition-all">Sales Order</NavLink>
-                <NavLink to="/admin/quotaion" className="hover:bg-gray-200 p-2 rounded transition-all">Quotaion</NavLink>
             </nav>
         </div>
     )

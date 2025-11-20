@@ -1,0 +1,154 @@
+[
+  {
+    "id": "1",
+    "issueData": "2025-11-20",
+    "expireDate": "2025-12-20",
+    "reference": "REF001",
+    "inquiryType": "sales",
+    "customer": "1",
+    "title": "Order Delay",
+    "billing": "123 Main St, Anytown, USA",
+    "desc": "The customer reported a delay in order delivery.",
+    "products": [
+      {"desc": "Product A", "qty": "10"},
+      {"desc": "Product B", "qty": "5"}
+    ],
+    "image": null
+  },
+  {
+    "id": "2",
+    "issueData": "2025-11-18",
+    "expireDate": "2025-12-18",
+    "reference": "REF002",
+    "inquiryType": "purchase",
+    "customer": "2",
+    "title": "Invoice Error",
+    "billing": "456 Oak St, Smalltown, USA",
+    "desc": "Incorrect invoice amount reported by customer.",
+    "products": [
+      {"desc": "Product C", "qty": "3"}
+    ],
+    "image": null
+  },
+  {
+    "id": "3",
+    "issueData": "2025-11-19",
+    "expireDate": "2025-12-19",
+    "reference": "REF003",
+    "inquiryType": "sales",
+    "customer": "3",
+    "title": "Damaged Product",
+    "billing": "789 Pine Rd, Bigcity, USA",
+    "desc": "Customer received damaged items.",
+    "products": [
+      {"desc": "Product D", "qty": "2"}
+    ],
+    "image": null
+  },
+  {
+    "id": "4",
+    "issueData": "2025-11-15",
+    "expireDate": "2025-12-15",
+    "reference": "REF004",
+    "inquiryType": "purchase",
+    "customer": "4",
+    "title": "Payment Issue",
+    "billing": "321 Maple Ave, Townsville, USA",
+    "desc": "Payment not reflecting in system.",
+    "products": [
+      {"desc": "Product E", "qty": "7"}
+    ],
+    "image": null
+  },
+  {
+    "id": "5",
+    "issueData": "2025-11-10",
+    "expireDate": "2025-12-10",
+    "reference": "REF005",
+    "inquiryType": "sales",
+    "customer": "5",
+    "title": "Wrong Shipment",
+    "billing": "654 Cedar St, Villagetown, USA",
+    "desc": "Customer received wrong product shipment.",
+    "products": [
+      {"desc": "Product F", "qty": "1"},
+      {"desc": "Product G", "qty": "4"}
+    ],
+    "image": null
+  },
+  {
+    "id": "6",
+    "issueData": "2025-11-12",
+    "expireDate": "2025-12-12",
+    "reference": "REF006",
+    "inquiryType": "purchase",
+    "customer": "6",
+    "title": "Missing Items",
+    "billing": "987 Elm St, Metropolis, USA",
+    "desc": "Some items missing in the shipment.",
+    "products": [
+      {"desc": "Product H", "qty": "6"}
+    ],
+    "image": null
+  },
+  {
+    "id": "7",
+    "issueData": "2025-11-14",
+    "expireDate": "2025-12-14",
+    "reference": "REF007",
+    "inquiryType": "sales",
+    "customer": "7",
+    "title": "Request for Quote",
+    "billing": "147 Spruce St, Lakeside, USA",
+    "desc": "Customer requested a quote for bulk purchase.",
+    "products": [
+      {"desc": "Product I", "qty": "20"}
+    ],
+    "image": null
+  },
+  {
+    "id": "8",
+    "issueData": "2025-11-16",
+    "expireDate": "2025-12-16",
+    "reference": "REF008",
+    "inquiryType": "purchase",
+    "customer": "8",
+    "title": "Contract Clarification",
+    "billing": "258 Birch St, Hilltown, USA",
+    "desc": "Customer requested clarification on contract terms.",
+    "products": [
+      {"desc": "Product J", "qty": "15"}
+    ],
+    "image": null
+  },
+  {
+    "id": "9",
+    "issueData": "2025-11-17",
+    "expireDate": "2025-12-17",
+    "reference": "REF009",
+    "inquiryType": "sales",
+    "customer": "9",
+    "title": "Return Request",
+    "billing": "369 Walnut St, Rivercity, USA",
+    "desc": "Customer requested a return for damaged items.",
+    "products": [
+      {"desc": "Product K", "qty": "2"}
+    ],
+    "image": null
+  },
+  {
+    "id": "10",
+    "issueData": "2025-11-20",
+    "expireDate": "2025-12-20",
+    "reference": "REF010",
+    "inquiryType": "purchase",
+    "customer": "10",
+    "title": "Bulk Order Inquiry",
+    "billing": "159 Chestnut St, Seaside, USA",
+    "desc": "Customer asked for bulk order pricing details.",
+    "products": [
+      {"desc": "Product L", "qty": "50"}
+    ],
+    "image": null
+  }
+]

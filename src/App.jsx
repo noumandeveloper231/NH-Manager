@@ -8,6 +8,11 @@ import Navbar from "./components/Layouts/Navbar";
 import Footer from "./components/Layouts/Footer";
 import AdminLayout from "./components/Layouts/AdminLayout";
 import { useLocation } from "react-router-dom";
+import NotFoundPage from "./pages/notFound";
+import Inquiry from "./pages/admin/Inquiry";
+import { Toaster } from 'sonner';
+import CPO from "./pages/admin/CPO";
+
 function App() {
   const location = useLocation();
 
@@ -24,15 +29,19 @@ function App() {
             <Route path="/admin" element={<AdminLayout />}>
               <Route index element={<Analytics />} />
               <Route path="customer" element={<Customer />} />
+              <Route path="inquiry" element={<Inquiry />} />
+              <Route path="quotation" element={<Quotaion />} />
+              <Route path="customer-purchase-order" element={<CPO />} />
               <Route path="sales-order" element={<SalesOrder />} />
-              <Route path="quotaion" element={<Quotaion />} />
             </Route>
+            <Route path="*" element={<NotFoundPage />} />
           </Routes>
         </main>
 
         <div className={location.pathname.includes('/admin') ? 'hidden' : 'block'}>
           <Footer />
         </div>
+        <Toaster position="top-center" richColors expand visibleToasts={1} />
       </div>
     </>
   )

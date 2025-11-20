@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1",
+    "name": "Ali",
+    "code": "C001",
+    "billing": "123 Main St, Anytown, USA",
+    "shipping": "123 Main St, Anytown, USA",
+    "email": "ali@example.com",
+    "image": "https://example.com/ali.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Sara",
+    "code": "C002",
+    "billing": "456 Oak St, Smalltown, USA",
+    "shipping": "456 Oak St, Smalltown, USA",
+    "email": "sara@example.com",
+    "image": "https://example.com/sara.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Omar",
+    "code": "C003",
+    "billing": "789 Pine Rd, Bigcity, USA",
+    "shipping": "789 Pine Rd, Bigcity, USA",
+    "email": "omar@example.com",
+    "image": "https://example.com/omar.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Laila",
+    "code": "C004",
+    "billing": "321 Maple Ave, Townsville, USA",
+    "shipping": "321 Maple Ave, Townsville, USA",
+    "email": "laila@example.com",
+    "image": "https://example.com/laila.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Hassan",
+    "code": "C005",
+    "billing": "654 Cedar St, Villagetown, USA",
+    "shipping": "654 Cedar St, Villagetown, USA",
+    "email": "hassan@example.com",
+    "image": "https://example.com/hassan.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Fatima",
+    "code": "C006",
+    "billing": "987 Elm St, Metropolis, USA",
+    "shipping": "987 Elm St, Metropolis, USA",
+    "email": "fatima@example.com",
+    "image": "https://example.com/fatima.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Yusuf",
+    "code": "C007",
+    "billing": "147 Spruce St, Lakeside, USA",
+    "shipping": "147 Spruce St, Lakeside, USA",
+    "email": "yusuf@example.com",
+    "image": "https://example.com/yusuf.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Aisha",
+    "code": "C008",
+    "billing": "258 Birch St, Hilltown, USA",
+    "shipping": "258 Birch St, Hilltown, USA",
+    "email": "aisha@example.com",
+    "image": "https://example.com/aisha.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Khalid",
+    "code": "C009",
+    "billing": "369 Walnut St, Rivercity, USA",
+    "shipping": "369 Walnut St, Rivercity, USA",
+    "email": "khalid@example.com",
+    "image": "https://example.com/khalid.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Noor",
+    "code": "C010",
+    "billing": "159 Chestnut St, Seaside, USA",
+    "shipping": "159 Chestnut St, Seaside, USA",
+    "email": "noor@example.com",
+    "image": "https://example.com/noor.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Bilal",
+    "code": "C011",
+    "billing": "753 Willow St, Greenfield, USA",
+    "shipping": "753 Willow St, Greenfield, USA",
+    "email": "bilal@example.com",
+    "image": "https://example.com/bilal.jpg"
+  }
+]

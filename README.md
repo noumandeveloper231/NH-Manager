@@ -79,6 +79,8 @@ js
 {
   _id,
   cpoNumber,
+  title: String,
+  desc: String,
   customer: ObjectId('Customer'),
   inquiry: ObjectId('Inquiry'),
   quotation: ObjectId('Quotation'),

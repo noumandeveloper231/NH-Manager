@@ -10,6 +10,7 @@ const Quotation = () => {
     inquiryReference: '',
     inquiry: '',
     customer: '',
+    quotation: '',
     title: '',
     billing: '',
     desc: '',
@@ -50,7 +51,7 @@ const Quotation = () => {
 
     setFormData(prev => ({
       ...prev,
-      customer: customerObj?.id || '',
+      quotation: customerObj?.id || '',
       billing: customerObj?.billing || '',
       products: selectedInquiry.products || [],
     }));

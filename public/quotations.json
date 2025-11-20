@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "issueDate": "2025-11-01",
+    "validTillDate": "2025-11-10",
+    "inquiryReference": "INQ-101",
+    "inquiry": "1",
+    "customer": "1",
+    "title": "Quotation for Sensors",
+    "billing": "123 Main Street, City A",
+    "desc": "Supply of temperature and humidity sensors",
+    "products": [
+      { "desc": "Temperature Sensor", "qty": 5, "unitPrice": 1200, "totalPrice": 6000 },
+      { "desc": "Humidity Controller", "qty": 3, "unitPrice": 3500, "totalPrice": 10500 }
+    ],
+    "productsTotalPrice": 16500,
+    "remarks": "Deliver within 7 days",
+    "image": null
+  },
+  {
+    "id": 2,
+    "issueDate": "2025-11-03",
+    "validTillDate": "2025-11-12",
+    "inquiryReference": "INQ-102",
+    "inquiry": "2",
+    "customer": "2",
+    "title": "Quotation for Motors",
+    "billing": "456 Park Lane, City B",
+    "desc": "High torque motors supply",
+    "products": [
+      { "desc": "Motor A", "qty": 2, "unitPrice": 15000, "totalPrice": 30000 },
+      { "desc": "Motor B", "qty": 1, "unitPrice": 22000, "totalPrice": 22000 }
+    ],
+    "productsTotalPrice": 52000,
+    "remarks": "Include warranty",
+    "image": null
+  },
+  {
+    "id": 3,
+    "issueDate": "2025-11-05",
+    "validTillDate": "2025-11-15  ",
+    "inquiryReference": "INQ-103",
+    "inquiry": "3",
+    "customer": "3",
+    "title": "Quotation for Cables",
+    "billing": "789 Market Road, City C",
+    "desc": "Copper and fiber optic cables",
+    "products": [
+      { "desc": "Copper Cable 10m", "qty": 10, "unitPrice": 500, "totalPrice": 5000 },
+      { "desc": "Fiber Optic Cable 5m", "qty": 6, "unitPrice": 1200, "totalPrice": 7200 }
+    ],
+    "productsTotalPrice": 12200,
+    "remarks": "Check compatibility",
+    "image": null
+  },
+  {
+    "id": 4,
+    "issueDate": "2025-11-06",
+    "validTillDate": "2025-11-14",
+    "inquiryReference": "INQ-104",
+    "inquiry": "4",
+    "customer": "4",
+    "title": "Quotation for Panels",
+    "billing": "321 Lake Street, City D",
+    "desc": "Solar panels for rooftop installation",
+    "products": [
+      { "desc": "Solar Panel 100W", "qty": 4, "unitPrice": 8000, "totalPrice": 32000 },
+      { "desc": "Mounting Kit", "qty": 4, "unitPrice": 1200, "totalPrice": 4800 }
+    ],
+    "productsTotalPrice": 36800,
+    "remarks": "Delivery within 10 days",
+    "image": null
+  },
+  {
+    "id": 5,
+    "issueDate": "2025-11-07",
+    "validTillDate": "2025-11-17",
+    "inquiryReference": "INQ-105",
+    "inquiry": "5",
+    "customer": "5",
+    "title": "Quotation for Batteries",
+    "billing": "654 River Road, City E",
+    "desc": "Rechargeable batteries for devices",
+    "products": [
+      { "desc": "Lithium Battery 12V", "qty": 8, "unitPrice": 2000, "totalPrice": 16000 },
+      { "desc": "Lead Acid Battery 6V", "qty": 5, "unitPrice": 1500, "totalPrice": 7500 }
+    ],
+    "productsTotalPrice": 23500,
+    "remarks": "Include transport charges",
+    "image": null
+  },
+  {
+    "id": 6,
+    "issueDate": "2025-11-08",
+    "validTillDate": "2025-11-18",
+    "inquiryReference": "INQ-106",
+    "inquiry": "6",
+    "customer": "6",
+    "title": "Quotation for PLCs",
+    "billing": "987 Industrial Zone, City F",
+    "desc": "Programmable logic controllers",
+    "products": [
+      { "desc": "PLC Model X", "qty": 3, "unitPrice": 15000, "totalPrice": 45000 },
+      { "desc": "PLC Model Y", "qty": 2, "unitPrice": 18000, "totalPrice": 36000 }
+    ],
+    "productsTotalPrice": 81000,
+    "remarks": "Test before dispatch",
+    "image": null
+  },
+  {
+    "id": 7,
+    "issueDate": "2025-11-09",
+    "validTillDate": "2025-11-19",
+    "inquiryReference": "INQ-107",
+    "inquiry": "7",
+    "customer": "7",
+    "title": "Quotation for Valves",
+    "billing": "852 Factory Lane, City G",
+    "desc": "Industrial valves supply",
+    "products": [
+      { "desc": "Gate Valve", "qty": 6, "unitPrice": 2500, "totalPrice": 15000 },
+      { "desc": "Ball Valve", "qty": 4, "unitPrice": 3200, "totalPrice": 12800 }
+    ],
+    "productsTotalPrice": 27800,
+    "remarks": "Pack carefully",
+    "image": null
+  },
+  {
+    "id": 8,
+    "issueDate": "2025-11-10",
+    "validTillDate": "2025-11-20",
+    "inquiryReference": "INQ-108",
+    "inquiry": "8",
+    "customer": "8",
+    "title": "Quotation for Switches",
+    "billing": "963 Commerce Blvd, City H",
+    "desc": "Electrical switches",
+    "products": [
+      { "desc": "Toggle Switch", "qty": 15, "unitPrice": 150, "totalPrice": 2250 },
+      { "desc": "Push Button Switch", "qty": 10, "unitPrice": 200, "totalPrice": 2000 }
+    ],
+    "productsTotalPrice": 4250,
+    "remarks": "Check stock before shipment",
+    "image": null
+  },
+  {
+    "id": 9,
+    "issueDate": "2025-11-11",
+    "validTillDate": "2025-11-21",
+    "inquiryReference": "INQ-109",
+    "inquiry": "9",
+    "customer": "9",
+    "title": "Quotation for Transformers",
+    "billing": "741 Industrial Park, City I",
+    "desc": "Step-down transformers",
+    "products": [
+      { "desc": "Transformer 5kVA", "qty": 2, "unitPrice": 12000, "totalPrice": 24000 },
+      { "desc": "Transformer 10kVA", "qty": 1, "unitPrice": 20000, "totalPrice": 20000 }
+    ],
+    "productsTotalPrice": 44000,
+    "remarks": "Include installation guide",
+    "image": null
+  },
+  {
+    "id": 10,
+    "issueDate": "2025-11-12",
+    "validTillDate": "2025-11-22",
+    "inquiryReference": "INQ-110",
+    "inquiry": "10",
+    "customer": "10",
+    "title": "Quotation for Cables & Connectors",
+    "billing": "159 Tech Street, City J",
+    "desc": "All types of cables and connectors",
+    "products": [
+      { "desc": "RJ45 Cable 5m", "qty": 20, "unitPrice": 150, "totalPrice": 3000 },
+      { "desc": "Connector Kit", "qty": 10, "unitPrice": 500, "totalPrice": 5000 }
+    ],
+    "productsTotalPrice": 8000,
+    "remarks": "Urgent delivery",
+    "image": null
+  }
+]
